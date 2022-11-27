@@ -1,0 +1,3 @@
+YOU ORDER  Chrispy Chicken : 520 
+NUMBER OF Chrispy Chicken IS : 2
+							 							TOTAL BILL IS : 1040
